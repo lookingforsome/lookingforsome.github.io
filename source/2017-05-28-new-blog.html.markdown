@@ -2,11 +2,11 @@
 
 title: New Blog
 date: 2017-05-28 21:13 UTC
-tags: 
 
 ---
 
-Since I finished my undergraduate education, I needed to create a new blog. My last one was more focused on developing exploration and eye-candy than anything.
+Since I finished my undergraduate education, 
+I needed to create a new blog. My last one was more focused on developing exploration and eye-candy than anything.
 
 I'd like to focus on typography and readability for this update. This means writing, photos, and all other content will come first in the design process.
 

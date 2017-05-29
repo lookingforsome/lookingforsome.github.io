@@ -136,6 +136,17 @@ img.emoji {
 #typed-strings p, #typed, .typed-cursor {
   font-size: 3.5em;
 }
+.article-feed {
+  margin-bottom: 2em;
+}
+.article-feed h2 a {
+  font-size: 1.2em;
+  color: black;
+}
+.article-feed h2 span {
+  font-size: 0.66em;
+}
+
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
