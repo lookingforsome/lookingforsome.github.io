@@ -14,13 +14,19 @@
     <link rel="alternate" href="http://blog.url.com/2017/05/29/fuji-x-t20/"/>
     <id>http://blog.url.com/2017/05/29/fuji-x-t20/</id>
     <published>2017-05-29T12:14:00-07:00</published>
-    <updated>2017-05-29T12:21:15-07:00</updated>
+    <updated>2017-05-29T13:51:29-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;New fuji camera post here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, optio accusantium magni neque sed. Iure omnis nemo in cumque ducimus, perferendis quis consequuntur porro laudantium suscipit debitis expedita voluptas rerum.&lt;/p&gt;
+    <content type="html">&lt;div id="img"&gt;
+	&lt;img src="/images/fujixt20.jpg" alt="Fujifilm X-T20" width="350px" text-align="center" /&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae nobis, soluta laboriosam quas eaque distinctio aliquam ducimus nisi recusandae magni, reiciendis facere culpa excepturi delectus voluptates consectetur ea. Molestiae, maiores.&lt;/p&gt;
+&lt;p&gt;After much buying research, I finally purchased the Fujifilm X-T20. I will unbox and review after it is shipped. This is my first mirrorless camera. As I learn the camera, I will post my findings.&lt;/p&gt;
+
+&lt;p&gt;Until then,&lt;/p&gt;
+
+&lt;p&gt;Austen&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -28,11 +34,12 @@
     <link rel="alternate" href="http://blog.url.com/2017/05/28/new-blog/"/>
     <id>http://blog.url.com/2017/05/28/new-blog/</id>
     <published>2017-05-28T14:13:00-07:00</published>
-    <updated>2017-05-28T22:16:44-07:00</updated>
+    <updated>2017-05-29T13:07:26-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;Since I finished my undergraduate education, 
+    <content type="html">
+&lt;p&gt;Since I finished my undergraduate education, 
 I needed to create a new blog. My last one was more focused on developing exploration and eye-candy than anything.&lt;/p&gt;
 
 &lt;p&gt;I'd like to focus on typography and readability for this update. This means writing, photos, and all other content will come first in the design process.&lt;/p&gt;
