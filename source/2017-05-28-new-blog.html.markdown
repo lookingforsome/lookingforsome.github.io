@@ -5,6 +5,7 @@ date: 2017-05-28 21:13 UTC
 
 ---
 
+
 Since I finished my undergraduate education, 
 I needed to create a new blog. My last one was more focused on developing exploration and eye-candy than anything.
 
