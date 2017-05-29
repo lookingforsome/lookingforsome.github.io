@@ -127,7 +127,15 @@ body {
   font-weight: 400;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
-
+img.emoji {
+   height: 1em;
+   width: 1em;
+   margin: 0 .05em 0 .1em;
+   vertical-align: -0.1em;
+}
+#typed-strings p, #typed, .typed-cursor {
+  font-size: 3.5em;
+}
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
