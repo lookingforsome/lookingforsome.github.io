@@ -152,6 +152,7 @@ img.emoji {
 }
 #main {
   width: 66.66%;
+  margin-bottom: 2em;
 }
 #main #img {
   text-align: center;

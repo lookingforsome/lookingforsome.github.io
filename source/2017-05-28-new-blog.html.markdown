@@ -7,10 +7,12 @@ date: 2017-05-28 21:13 UTC
 
 
 Since I finished my undergraduate education, 
-I needed to create a new blog. My last one was more focused on developing exploration and eye-candy than anything.
+I needed to create a new blog. My last one was more focused on the exploration of development and eye-candy elements than anything.
 
 I'd like to focus on typography and readability for this update. This means writing, photos, and all other content will come first in the design process.
 
 My next steps will be to experiment with the typography and sizing for a seemless reading experience. I want you to almost enjoy reading all of my posts not only for the value inside the post, but the reading form & style itself as well.
 
-Austen
+The blog is built with Middleman, ontop of Ruby, which is nice because it is more developer-centric & is able to be hosted on Github Pages for free.
+
+✌ Austen

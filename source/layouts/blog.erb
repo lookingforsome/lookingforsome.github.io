@@ -4,7 +4,17 @@
     <%= partial "head" %>
   </head>
   <body>
-    <%= partial "intro" %>
+    <script>
+			document.addEventListener('DOMContentLoaded', function(){
+				Typed.new('#typed', {
+					stringsElement: document.getElementById('typed-strings')
+				});
+			});
+		</script>
+    <div id="typed-strings">
+    	<p>Austen Myers.</p>
+		</div>
+		<span id="typed"></span>
     <div id="main" role="main">
     	<h1>
     		<%= current_page.data.title %>
