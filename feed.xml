@@ -14,7 +14,7 @@
     <link rel="alternate" href="http://blog.url.com/2017/05/29/fuji-x-t20/"/>
     <id>http://blog.url.com/2017/05/29/fuji-x-t20/</id>
     <published>2017-05-29T12:14:00-07:00</published>
-    <updated>2017-05-29T13:51:29-07:00</updated>
+    <updated>2017-05-29T13:56:35-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -22,7 +22,7 @@
 	&lt;img src="/images/fujixt20.jpg" alt="Fujifilm X-T20" width="350px" text-align="center" /&gt;
 &lt;/div&gt;
 
-&lt;p&gt;After much buying research, I finally purchased the Fujifilm X-T20. I will unbox and review after it is shipped. This is my first mirrorless camera. As I learn the camera, I will post my findings.&lt;/p&gt;
+&lt;p&gt;After much buying research, I finally purchased the Fujifilm X-T20. I will unbox and review it after it ships. This is my first mirrorless camera. As I learn the ins and outs of shooting with it, I will post my findings.&lt;/p&gt;
 
 &lt;p&gt;Until then,&lt;/p&gt;
 
@@ -34,19 +34,21 @@
     <link rel="alternate" href="http://blog.url.com/2017/05/28/new-blog/"/>
     <id>http://blog.url.com/2017/05/28/new-blog/</id>
     <published>2017-05-28T14:13:00-07:00</published>
-    <updated>2017-05-29T13:07:26-07:00</updated>
+    <updated>2017-05-29T17:07:09-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">
 &lt;p&gt;Since I finished my undergraduate education, 
-I needed to create a new blog. My last one was more focused on developing exploration and eye-candy than anything.&lt;/p&gt;
+I needed to create a new blog. My last one was more focused on the exploration of development and eye-candy elements than anything.&lt;/p&gt;
 
 &lt;p&gt;I'd like to focus on typography and readability for this update. This means writing, photos, and all other content will come first in the design process.&lt;/p&gt;
 
 &lt;p&gt;My next steps will be to experiment with the typography and sizing for a seemless reading experience. I want you to almost enjoy reading all of my posts not only for the value inside the post, but the reading form &amp;amp; style itself as well.&lt;/p&gt;
 
-&lt;p&gt;Austen&lt;/p&gt;
+&lt;p&gt;The blog is built with Middleman, ontop of Ruby, which is nice because it is more developer-centric &amp;amp; is able to be hosted on Github Pages for free.&lt;/p&gt;
+
+&lt;p&gt;✌ Austen&lt;/p&gt;
 </content>
   </entry>
 </feed>
